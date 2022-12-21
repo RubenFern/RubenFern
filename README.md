@@ -6,7 +6,7 @@ And I am studying Software Engineering :computer:
 
 I am familiar with all these languages, but I would especially highlight Java and JavaScript.
 
-![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo="/img/java.png"&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
