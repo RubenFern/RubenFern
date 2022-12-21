@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi 👋
+### My name is RubenFern
+
+And I am studying Software Engineering :computer:
+
+## My skills are:
+![](https://img.shields.io/badge/img%2Fjava.png-JAVA-orange?style=for-the-badge)
 
 <!--
 **RubenFern/RubenFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
