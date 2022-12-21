@@ -23,7 +23,7 @@ I have also worked with some databases
 And of course, with git repositories
 
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+
 ![](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 ## My projects :gem:
