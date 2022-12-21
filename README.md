@@ -4,7 +4,7 @@ And I am studying Software Engineering :computer:
 
 ## My main skills are :hammer:
 
-I am familiar with all these languages, but I would especially highlight Java and JavaScript.
+I am familiar with all these languages, but I would especially highlight Java and Node.
 
 ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
