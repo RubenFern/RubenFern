@@ -23,7 +23,7 @@ I have also worked with some databases
 And of course, with git repositories
 
 ![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-
+![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
 
 ## My projects :gem:
@@ -38,7 +38,7 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 [![][api-shield]][api]
 
 [api-shield]: https://github.com/RubenFern/Photodir-API-Rest-PFM
-[api]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[api]: https://img.shields.io/badge/-Api-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### Photodir - Interfaz
 Proyecto Fin de Ciclo. Calificación: Mención honorífica.
@@ -48,7 +48,7 @@ Este proyecto es la parte del front del proyecto fin de ciclo. Contiene las inte
 [![][GitHub2-shield]][GitHub2]
 
 [GitHub2-shield]: https://github.com/RubenFern/Photodir-Front-React-PFM
-[GitHub2]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[GitHub2]: https://img.shields.io/badge/-Interfaz-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ## Social Networks :book:
 
