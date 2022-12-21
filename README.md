@@ -38,17 +38,17 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 [![][Github-shield]][Github]
 
 [Github]: https://github.com/RubenFern/Photodir-API-Rest-PFM
-[Github-shield]: https://img.shields.io/badge/-Api-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[Github-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### Photodir - Interfaz
 Proyecto Fin de Ciclo. Calificación: Mención honorífica.
 
 Este proyecto es la parte del front del proyecto fin de ciclo. Contiene las interfaces de usuario y se encarga de realizar las peticiones a la API Rest para obtener y mostrar los datos de la aplicación.
 
-[![][GitHub2-shield]][GitHub2]
+[![][GitHub-shield]][GitHub]
 
-[GitHub2]: https://github.com/RubenFern/Photodir-Front-React-PFM
-[GitHub2-shield]: https://img.shields.io/badge/-Interfaz-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[GitHub]: https://github.com/RubenFern/Photodir-Front-React-PFM
+[GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ## Social Networks :book:
 
