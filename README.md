@@ -9,7 +9,7 @@ I am familiar with all these languages, but I would especially highlight Java an
 ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white)
-![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=black)
+![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -35,10 +35,10 @@ This API is a part of the end-of-module project that works together with a React
 
 The API is based on the MERN Stack, with technologies such as Express and Node, along with Mongoose for handling the MongoDB database.
 
-[![][GitHub-shield]][GitHub]
+[![][api-shield]][api]
 
-[GitHub-shield]: https://github.com/RubenFern/Photodir-API-Rest-PFM
-[GitHub]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[api-shield]: https://github.com/RubenFern/Photodir-API-Rest-PFM
+[api]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### Photodir - Interfaz
 Proyecto Fin de Ciclo. Calificación: Mención honorífica.
