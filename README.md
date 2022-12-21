@@ -9,7 +9,7 @@ I am familiar with all these languages, but I would especially highlight Java an
 ![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white)
-![](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node.js&logoColor=black)
+![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=black)
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
