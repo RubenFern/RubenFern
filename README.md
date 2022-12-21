@@ -4,7 +4,7 @@
 And I am studying Software Engineering :computer:
 
 ## My skills are:
-![](https://img.shields.io/badge/-JAVA-orange?style=for-the-badge&logo=https://github.com/RubenFern/RubenFern/blob/main/img/java.png?raw=true)
+![](https://img.shields.io/badge/-JAVA-orange?style=flat)
 
 <!--
 **RubenFern/RubenFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
