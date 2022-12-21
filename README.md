@@ -4,7 +4,7 @@ And I am studying Software Engineering :computer:
 
 ## My skills are:
 ![](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2BlogoColor=white)
+![](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=java&logoColor=white)
 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
