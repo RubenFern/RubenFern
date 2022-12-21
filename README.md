@@ -45,10 +45,10 @@ Proyecto Fin de Ciclo. Calificación: Mención honorífica.
 
 Este proyecto es la parte del front del proyecto fin de ciclo. Contiene las interfaces de usuario y se encarga de realizar las peticiones a la API Rest para obtener y mostrar los datos de la aplicación.
 
-[![][GitHub-shield]][GitHub]
+[![][GitHub2-shield]][GitHub2]
 
-[GitHub-shield]: https://github.com/RubenFern/Photodir-Front-React-PFM
-[GitHub]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[GitHub2-shield]: https://github.com/RubenFern/Photodir-Front-React-PFM
+[GitHub2]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ## Social Networks :book:
 
