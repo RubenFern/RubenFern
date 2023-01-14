@@ -35,7 +35,7 @@ And of course, with git repositories
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-End of Cycle Project. Grade: Honorable mention.
+End of Cycle Project - Honorable mention.
 
 This API is a part of the end-of-module project that works together with a React interface.
 
@@ -51,7 +51,7 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
-End of Cycle Project. Qualification: Honorable mention.
+End of Cycle Project - Honorable mention.
 
 This project is the front end part of the final project. It contains the user interfaces and is responsible for making requests to the API Rest to obtain and display the application data.
 
