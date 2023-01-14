@@ -51,9 +51,9 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
-Proyecto Fin de Ciclo. Calificación: Mención honorífica.
+End of Cycle Project. Qualification: Honorable mention.
 
-Este proyecto es la parte del front del proyecto fin de ciclo. Contiene las interfaces de usuario y se encarga de realizar las peticiones a la API Rest para obtener y mostrar los datos de la aplicación.
+This project is the front end part of the final project. It contains the user interfaces and is responsible for making requests to the API Rest to obtain and display the application data.
 
 [![][GitHub-shield]][GitHub]
 
