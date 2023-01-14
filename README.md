@@ -12,7 +12,7 @@ I am familiar with all these languages, but I would especially highlight Java an
 ![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
@@ -49,7 +49,7 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 ### Photodir - Interfaz
 
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black)
+![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
 
 Proyecto Fin de Ciclo. Calificación: Mención honorífica.
 
