@@ -12,6 +12,7 @@ I am familiar with all these languages, but I would especially highlight Java an
 ![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 
@@ -29,6 +30,11 @@ And of course, with git repositories
 ## My projects :gem:
 
 ### Photodir - API Rest
+
+![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 End of Cycle Project. Grade: Honorable mention.
 
 This API is a part of the end-of-module project that works together with a React interface.
@@ -41,6 +47,10 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 [Github-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### Photodir - Interfaz
+
+![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black)
+
 Proyecto Fin de Ciclo. Calificación: Mención honorífica.
 
 Este proyecto es la parte del front del proyecto fin de ciclo. Contiene las interfaces de usuario y se encarga de realizar las peticiones a la API Rest para obtener y mostrar los datos de la aplicación.
