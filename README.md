@@ -67,6 +67,8 @@ This project is the front end part of the final project. It contains the user in
 SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and play the content you have chosen, it allows you to play through a link to a Youtube 
 video or playlist, or by a normal search.
 
+[![][GitHub-shield]][GitHub]
+
 [GitHub]: https://github.com/RubenFern/SoundWave-Discord-Bot
 [GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
