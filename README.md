@@ -41,9 +41,9 @@ This API is a part of the end-of-module project that works together with a React
 
 The API is based on the MERN Stack, with technologies such as Express and Node, along with Mongoose for handling the MongoDB database.
 
-[![][Github-shield]][Github]
+[![][Github-shield]][Github1]
 
-[Github]: https://github.com/RubenFern/Photodir-API-Rest-PFM
+[Github1]: https://github.com/RubenFern/Photodir-API-Rest-PFM
 [Github-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### Photodir - Interfaz
@@ -55,9 +55,9 @@ End of Cycle Project - Honorable mention.
 
 This project is the front end part of the final project. It contains the user interfaces and is responsible for making requests to the API Rest to obtain and display the application data.
 
-[![][GitHub-shield]][GitHub]
+[![][GitHub-shield]][Github2]
 
-[GitHub]: https://github.com/RubenFern/Photodir-Front-React-PFM
+[Github2]: https://github.com/RubenFern/Photodir-Front-React-PFM
 [GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ### SoundWave - Discord Bot
@@ -67,9 +67,9 @@ This project is the front end part of the final project. It contains the user in
 SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and play the content you have chosen, it allows you to play through a link to a Youtube 
 video or playlist, or by a normal search.
 
-[![][GitHub-shield]][GitHub]
+[![][GitHub-shield]][Github3]
 
-[GitHub]: https://github.com/RubenFern/SoundWave-Discord-Bot
+[Github3]: https://github.com/RubenFern/SoundWave-Discord-Bot
 [GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
 ## Social Networks :book:
