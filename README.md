@@ -40,7 +40,8 @@ End of Cycle Project - Honorable mention.
 ```
 This API is a part of the end-of-module project that works together with a React interface.
 
-The API is based on the MERN Stack, with technologies such as Express and Node, along with Mongoose for handling the MongoDB database.
+The API is based on the MERN Stack, with technologies such as Express and Node, along with Mongoose for 
+handling the MongoDB database.
 ```
 
 [![][Github-shield]][Github1]
@@ -56,7 +57,8 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 End of Cycle Project - Honorable mention.
 
 ```
-This project is the front end part of the final project. It contains the user interfaces and is responsible for making requests to the API Rest to obtain and display the application data.
+This project is the front end part of the final project. It contains the user interfaces and is responsible 
+for making requests to the API Rest to obtain and display the application data.
 ```
 
 [![][GitHub-shield]][Github2]
@@ -69,8 +71,9 @@ This project is the front end part of the final project. It contains the user in
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 ```
-SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and play the content you have chosen, it allows you to play through a link to a Youtube 
-video or playlist, or by a normal search.
+SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and 
+play the content you have chosen, it allows you to play through a link to a Youtube video or playlist, or 
+by a normal search.
 ```
 
 [![][GitHub-shield]][Github3]
