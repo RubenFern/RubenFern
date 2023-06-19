@@ -60,6 +60,16 @@ This project is the front end part of the final project. It contains the user in
 [GitHub]: https://github.com/RubenFern/Photodir-Front-React-PFM
 [GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
 
+### SoundWave - Discord Bot
+
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and play the content you have chosen, it allows you to play through a link to a Youtube 
+video or playlist, or by a normal search.
+
+[GitHub]: https://github.com/RubenFern/SoundWave-Discord-Bot
+[GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
+
 ## Social Networks :book:
 
 You can tell me on Linkedin or follow me here on GitHub. :grin:
