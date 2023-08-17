@@ -1,4 +1,4 @@
-## Hi 👋 My name is RubenFern
+## Hi 👋 My name is Ruben
 
 And I am studying Software Engineering :computer:
 
