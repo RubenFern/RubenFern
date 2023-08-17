@@ -72,7 +72,9 @@ by a normal search.
 ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ```
-Local password manager is a password manager. It performs encryption with the AES algorithm provided by .NET's own library System.Security.Cryptography. It stores passwords locally along with other data such as site name, username and email.
+Local password manager is a password manager. It performs encryption with the AES algorithm provided by 
+.NET's own library System.Security.Cryptography. It stores passwords locally along with other data such 
+as site name, username and email.
 ```
 
 [![][GitHub-shield]][Github3]
