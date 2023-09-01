@@ -77,11 +77,6 @@ Local password manager is a password manager. It performs encryption with the AE
 as site name, username and email.
 ```
 
-[![][GitHub-shield]][Github3]
-
-[Github3]: https://github.com/RubenFern/SoundWave-Discord-Bot
-[GitHub-shield]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
-
 ## Social Networks :book:
 
 You can tell me on Linkedin or follow me here on GitHub. :grin:
