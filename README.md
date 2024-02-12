@@ -30,7 +30,7 @@ And of course, with git repositories
 
 ## My projects :gem:
 
-* ### [Photodir - API Rest](https://github.com/RubenFern/Photodir-API-Rest-PFM)
+* ### [Photodir - API Rest](https://github.com/RubenFern/photodir-api-rest-pfm)
 
 ![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
@@ -45,7 +45,7 @@ The API is based on the MERN Stack, with technologies such as Express and Node, 
 handling the MongoDB database.
 ```
 
-* ### [Photodir - Interfaz](https://github.com/RubenFern/Photodir-Front-React-PFM)
+* ### [Photodir - Interfaz](https://github.com/RubenFern/photodir-front-react-pfm)
 
 ![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
@@ -57,7 +57,7 @@ This project is the front end part of the final project. It contains the user in
 for making requests to the API Rest to obtain and display the application data.
 ```
 
-* ### [SoundWave - Discord Bot](https://github.com/RubenFern/SoundWave-Discord-Bot)
+* ### [SoundWave - Discord Bot](https://github.com/RubenFern/soundwave-discord-bot)
 
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 
@@ -67,7 +67,7 @@ play the content you have chosen, it allows you to play through a link to a Yout
 by a normal search.
 ```
 
-* ### [Local Password Manager](https://github.com/RubenFern/LocalPasswordManager)
+* ### [Local Password Manager](https://github.com/RubenFern/local-password-manager)
 
 ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
