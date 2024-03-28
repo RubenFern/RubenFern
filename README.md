@@ -47,7 +47,7 @@ handling the MongoDB database.
 
 * ### [Photodir - Interfaz](https://github.com/RubenFern/photodir-front-react-pfm)
 
-[![](https://skillicons.dev/icons?i=reactjs,redux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
 
 End of Cycle Project - Honorable mention.
 
