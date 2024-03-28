@@ -16,7 +16,7 @@ I am familiar with all these languages, but I would especially highlight Java an
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,express,laravel)](https://skillicons.dev)
 
 ### Database and ORMs
-[![](https://skillicons.dev/icons?i=mysql,mongodb,sequelize,mongoose,hibernate)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,mongodb,sequelize,hibernate)](https://skillicons.dev)
 
 ### Devops
 [![](https://skillicons.dev/icons?i=docker,azure,aws)](https://skillicons.dev)
