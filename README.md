@@ -6,35 +6,35 @@ And I am studying Software Engineering :computer:
 
 I am familiar with all these languages, but I would especially highlight Java and Node.
 
-![](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C&logoColor=white)
-![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+### Programming Languages
+[![](https://skillicons.dev/icons?i=java,ts,js,cs,cpp,c,php&perline=3)](https://skillicons.dev)
 
-I have also worked with some databases
+### Frontend Development
+[![](https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,jquery,html,css&perline=3)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/-MySQL-003B57?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+### Backend Development
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,express,laravel&perline=3)](https://skillicons.dev)
 
-And of course, with git repositories
+### Database and ORMs
+[![](https://skillicons.dev/icons?i=mariadb,mongodb,sequelize,mongoose,hibernate&perline=3)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![](https://img.shields.io/badge/-BitBucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white)
+### Devops
+[![](https://skillicons.dev/icons?i=docker,azure,aws&perline=3)](https://skillicons.dev)
+
+### Package Manager
+[![](https://skillicons.dev/icons?i=npm,maven&perline=3)](https://skillicons.dev)
+
+### Version Control
+[![](https://skillicons.dev/icons?i=git,github,bitbucket&perline=3)](https://skillicons.dev)
+
+### Other
+[![](https://skillicons.dev/icons?i=postman,linux,discordjs&perline=3)](https://skillicons.dev)
 
 ## My projects :gem:
 
 * ### [Photodir - API Rest](https://github.com/RubenFern/photodir-api-rest-pfm)
 
-![](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=Express&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+[![](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
 
 End of Cycle Project - Honorable mention.
 
@@ -47,8 +47,7 @@ handling the MongoDB database.
 
 * ### [Photodir - Interfaz](https://github.com/RubenFern/photodir-front-react-pfm)
 
-![](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black)
-![](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)
+[![](https://skillicons.dev/icons?i=reactjs,redux&perline=3)](https://skillicons.dev)
 
 End of Cycle Project - Honorable mention.
 
@@ -59,7 +58,7 @@ for making requests to the API Rest to obtain and display the application data.
 
 * ### [SoundWave - Discord Bot](https://github.com/RubenFern/soundwave-discord-bot)
 
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+[![](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 ```
 SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and 
@@ -69,7 +68,7 @@ by a normal search.
 
 * ### [Local Password Manager](https://github.com/RubenFern/local-password-manager)
 
-![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
 
 ```
 Local password manager is a password manager. It performs encryption with the AES algorithm provided by 
@@ -81,7 +80,4 @@ as site name, username and email.
 
 You can tell me on Linkedin or follow me here on GitHub. :grin:
 
-[![][linkedin-shield]][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/rubenfern/
-[linkedin-shield]: https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white
+[![](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/rubenfern/)
