@@ -7,10 +7,10 @@ And I am studying Software Engineering :computer:
 I am familiar with all these languages, but I would especially highlight Java and Node.
 
 ### Programming Languages
-[![](https://skillicons.dev/icons?i=java,ts,js,cs,cpp,c,php&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=java,ts,js,cs,cpp,c,php)](https://skillicons.dev)
 
 ### Frontend Development
-[![](https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,jquery,html,css&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,jquery,html,css&perline=10)](https://skillicons.dev)
 
 ### Backend Development
 [![](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,express,laravel&perline=3)](https://skillicons.dev)
