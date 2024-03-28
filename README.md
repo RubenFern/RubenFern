@@ -10,31 +10,31 @@ I am familiar with all these languages, but I would especially highlight Java an
 [![](https://skillicons.dev/icons?i=java,ts,js,cs,cpp,c,php)](https://skillicons.dev)
 
 ### Frontend Development
-[![](https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,jquery,html,css&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,jquery,html,css)](https://skillicons.dev)
 
 ### Backend Development
-[![](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,express,laravel&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,express,laravel)](https://skillicons.dev)
 
 ### Database and ORMs
-[![](https://skillicons.dev/icons?i=mariadb,mongodb,sequelize,mongoose,hibernate&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,mongodb,sequelize,mongoose,hibernate)](https://skillicons.dev)
 
 ### Devops
-[![](https://skillicons.dev/icons?i=docker,azure,aws&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=docker,azure,aws)](https://skillicons.dev)
 
 ### Package Manager
-[![](https://skillicons.dev/icons?i=npm,maven&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=npm,maven)](https://skillicons.dev)
 
 ### Version Control
-[![](https://skillicons.dev/icons?i=git,github,bitbucket&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,bitbucket)](https://skillicons.dev)
 
 ### Other
-[![](https://skillicons.dev/icons?i=postman,linux,discordjs&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=postman,linux,discordjs)](https://skillicons.dev)
 
 ## My projects :gem:
 
 * ### [Photodir - API Rest](https://github.com/RubenFern/photodir-api-rest-pfm)
 
-[![](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
 End of Cycle Project - Honorable mention.
 
@@ -47,7 +47,7 @@ handling the MongoDB database.
 
 * ### [Photodir - Interfaz](https://github.com/RubenFern/photodir-front-react-pfm)
 
-[![](https://skillicons.dev/icons?i=reactjs,redux&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=reactjs,redux)](https://skillicons.dev)
 
 End of Cycle Project - Honorable mention.
 
@@ -58,7 +58,7 @@ for making requests to the API Rest to obtain and display the application data.
 
 * ### [SoundWave - Discord Bot](https://github.com/RubenFern/soundwave-discord-bot)
 
-[![](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 ```
 SoundWave is a YouTube audio playback bot in discord. SoundWave will join the voice channel you are in and 
@@ -68,7 +68,7 @@ by a normal search.
 
 * ### [Local Password Manager](https://github.com/RubenFern/local-password-manager)
 
-[![](https://skillicons.dev/icons?i=cs&perline=3)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 ```
 Local password manager is a password manager. It performs encryption with the AES algorithm provided by 
@@ -80,4 +80,4 @@ as site name, username and email.
 
 You can tell me on Linkedin or follow me here on GitHub. :grin:
 
-[![](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/rubenfern/)
+[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rubenfern/)
